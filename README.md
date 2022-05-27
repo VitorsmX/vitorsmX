@@ -9,16 +9,16 @@ vamos elevar os códigos ao estado da arte?
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="left" width="300" src="https://github.com/vitorsmfff/Readme_material/blob/5934eb05f754f70eed8510f421051e7df2aef2e4/Marketing%20Pessoal/Logos/1%20metade%20do%20tamanho.png" />
 
 ```kotlin
-object **SEU NOME** {
- val name = "SEU NOME COMPLETO"
- val acknowledgements = "ÁREA DE CONHECIMENTO"
+object **MEU NOME** {
+ val name = "Vitor Sousa Mesquita"
+ val acknowledgements = "Analista e desenvolvedor de sistemas"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
-
+ val languages = listOf("Java", "Python", "CSS", "HTML")
+ val hardskills = listOf("Design Gráfico", "Scrum", "Padrões de projeto em Java")
 }
 ```
 
