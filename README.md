@@ -2,8 +2,8 @@
 
 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 Sempre tive muito interesse em ajudar as pessoas a aprender, tenho interesse particular em escrita literária, 
-mas essa paixão evoluiu e agora escrevo poetizo os códigos <br />
-Vamos poetizar essas Issues?
+mas essa paixão evoluiu e agora poetizo os códigos <br />
+vamos elevar os códigos ao estado da arte?
 
 
 
