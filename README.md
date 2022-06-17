@@ -41,11 +41,11 @@ object **MEU NOME** {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsmfff&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorsmX&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vitorsmfff&show_icons=true&theme=dracula&line_height=27" alt="**Vitor Sousa Mesquita** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=VitorsmX&show_icons=true&theme=dracula&line_height=27" alt="**Vitor Sousa Mesquita** github stats"/>
 </a>
 
 [website]: https://codedev.ga/
