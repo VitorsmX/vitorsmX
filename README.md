@@ -41,7 +41,7 @@ object **MEU NOME** {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorsmX&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorsmX&theme=dracula&hide_langs_below=4" />
 </a>
 
 <a href="https://github.com/Gurupreet">
