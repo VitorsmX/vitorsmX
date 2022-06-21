@@ -51,7 +51,7 @@ object **MEU NOME** {
 [website]: https://codedev.ga/
 [twitter]: https://twitter.com/VitorSousaMesq
 [youtube]: https://www.youtube.com/channel/UC3AuuUGAXnILVT3J3Br0aIA
-[instagram]: https://www.instagram.com/vitorsmtiepe01/
+[instagram]: https://www.instagram.com/vitorsmx01/
 [linkedin]: https://www.linkedin.com/in/vitorsm10/
 <br>
 
