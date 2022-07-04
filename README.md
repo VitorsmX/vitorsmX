@@ -17,8 +17,9 @@ object **MEU NOME** {
  val acknowledgements = "Analista e desenvolvedor de sistemas"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "CSS", "HTML")
- val hardskills = listOf("Design Gráfico", "Scrum", "Padrões de projeto em Java")
+ val languages = listOf("Java", "Python")
+ val markupAndStyling = listOf("HTML","CSS")
+ val hardSkills = listOf("Design Gráfico", "Scrum", "Padrões de projeto em Java")
 }
 ```
 
