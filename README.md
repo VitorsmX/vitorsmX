@@ -1,9 +1,7 @@
 ### Fala Devs 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
-Programador em formação, tenho interesse particular em escrita literária, 
-mas essa paixão evoluiu e agora poetizo os códigos <br />
-vamos elevar os códigos ao estado da arte?
+Gosto de criar programas e ajudar outras pessoas a fazer o mesmo. Programador em formação, minha missão é dar o melhor para criar algo que impacte positivamente a vida das pessoas ou pelo menos algumas.
+Gosto muito de metodologias ágeis e gerencia em geral, gosto de ensinar e de criar designs, tanto que sempre tive uma inclinação para arte
 
 
 
