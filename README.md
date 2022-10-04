@@ -1,7 +1,7 @@
 ### Fala Devs 👋
 
 Gosto de criar programas e ajudar outras pessoas a fazer o mesmo. Programador em formação, minha missão é dar o melhor para criar algo que impacte positivamente a vida das pessoas ou pelo menos algumas.
-Gosto muito de metodologias ágeis e gerencia em geral, gosto de ensinar e de criar designs, tanto que sempre tive uma inclinação para arte
+Gosto muito de metodologias ágeis e gerencia em geral, gosto de ensinar e de criar designs, como para programação web e Python como meios de criar coisas úteis
 
 
 
