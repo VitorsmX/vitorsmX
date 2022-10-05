@@ -7,7 +7,7 @@ Gosto muito de metodologias ágeis e gerencia em geral, gosto de ensinar e de cr
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img align="left" width="300" src="https://github.com/vitorsmfff/Readme_material/blob/5934eb05f754f70eed8510f421051e7df2aef2e4/Marketing%20Pessoal/Logos/1%20metade%20do%20tamanho.png" />
+<img align="left" width="300" src="https://raw.githubusercontent.com/VitorsmX/Readme_material/main/Marketing%20Pessoal/Eu_No_PC.jpeg" />
 
 ```kotlin
 object **MEU NOME** {
